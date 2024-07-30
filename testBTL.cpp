@@ -941,21 +941,12 @@ while(stamina >0){
         else
         if(mapp[vitri.x][vitri.y] == 'R'){
             reverse_moveStyle(temp_moveStyle);
-        }
-
-
-
-    }
-
-    
+        
+    }    
 }
-
-
-
 }
 
 //-------------------------------------
-
 
 int readFile(
     const string & filename,
